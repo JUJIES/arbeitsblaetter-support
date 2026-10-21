@@ -2,7 +2,7 @@
 
 ## 1. Die richtige ZIP herunterladen
 
-Öffne die [Pilotversion 0.1.41](https://github.com/JUJIES/arbeitsblaetter-support/releases/tag/v0.1.41) und lade unter „Assets“ **JUJIES-Arbeitsblaetter-0.1.41-Pilot.zip** herunter. Nicht „Source code (zip)“ wählen: Das ist nur dieses Dokumentationsrepository und kein installierbares Pluginpaket.
+Öffne die [Pilotversion 0.1.42](https://github.com/JUJIES/arbeitsblaetter-support/releases/tag/v0.1.42) und lade unter „Assets“ **JUJIES-Arbeitsblaetter-0.1.42-Pilot.zip** herunter. Nicht „Source code (zip)“ wählen: Das ist nur dieses Dokumentationsrepository und kein installierbares Pluginpaket.
 
 Die Plugin-ZIP **nicht entpacken**. Die Prüfsumme steht in `SHA256SUMS.txt` beim Release.
 
@@ -48,4 +48,4 @@ Neue Releases manuell herunterladen und über die angebotene Import-/Aktualisier
 
 [Kurzanleitung mit Screenshots](docs/Kurzanleitung-0.1.40.pdf). Die Screenshots stammen aus der vorherigen Pilotoberfläche mit dem kürzeren Namen „Arbeitsblätter“; der aktuelle Pluginname lautet „JUJIES Arbeitsblätter“. Menübezeichnungen können sich ändern.
 
-Die bebilderte Kurzanleitung trägt Stand 0.1.40; Installation und Bedienung gelten unverändert auch für 0.1.41.
+Die bebilderte Kurzanleitung trägt Stand 0.1.40; Installation und Bedienung gelten unverändert auch für 0.1.42.

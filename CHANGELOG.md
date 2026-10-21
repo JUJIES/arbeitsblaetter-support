@@ -1,5 +1,12 @@
 # Änderungen
 
+## 0.1.42 – erkennbare Materialaufträge, 21. Oktober 2026
+
+- Die bestehende Auftragshervorhebung gilt ausdrücklich auch für Lese-, Hör- und Betrachtungsaufträge auf Materialseiten.
+- Ein Gesamtauftrag darf unnummeriert bleiben; keine zusätzliche Aufgabe nötig.
+- Vorlagen und Werkzeuge unverändert. Paket- und Browserstartprüfungen bestanden; lokale Beispielrevision geprüft, neue Modellprobe noch offen.
+
+
 ## 0.1.41 – Material und Aufgaben, 21. Oktober 2026
 
 - Umfangreiches Material bevorzugt als luftige Materialseite vor einer zusammenhängenden Aufgabenfolge.
