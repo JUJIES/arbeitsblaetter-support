@@ -9,4 +9,8 @@ Das Plugin richtet sich an Lehrkräfte, die Unterrichtsmaterial vorbereiten. Es 
 - Nur Material hochladen und weitergeben, für das die erforderlichen Rechte bestehen. Fremdkomponenten behalten ihre im Plugin dokumentierten Lizenzen.
 - Keine Zusicherung eines fehlerfreien Erstentwurfs oder jederzeit verfügbarer PDF-Erzeugung.
 
-Dieses Repository enthält nur Supportdokumentation. Eine Lizenz für sämtliche Pluginquellen oder Unterrichtsmaterialien wird damit nicht erteilt. Eine Einreichung oder Annahme im Plugin-Verzeichnis ist nicht allein durch dieses Repository belegt.
+Dieses Repository enthält Dokumentation und bietet vollständige Plugin-ZIPs als versionierte Releases an. Die ZIPs enthalten auch Beispiele, Vorlagen, Regeln und Skripte. Eine Lizenz für sämtliche Pluginquellen oder Unterrichtsmaterialien wird damit nicht erteilt. Eine Einreichung oder Annahme im Plugin-Verzeichnis ist nicht allein durch dieses Repository belegt.
+
+## Sprachen
+
+Der Arbeitsablauf und die Dokumentation sind deutschsprachig ausgerichtet. Die Arbeitsblattsprache kann ausdrücklich anders gewählt werden, etwa für Englischunterricht oder weitere Sprachen. Nicht jede Sprache wurde praktisch getestet; fachkundige Sprachprüfung bleibt erforderlich. Deutschland als geplante Verzeichnisregion begrenzt nicht die möglichen Arbeitsblattsprachen und nicht die weltweite Lesbarkeit dieses GitHub-Repositories.
