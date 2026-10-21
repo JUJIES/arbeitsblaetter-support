@@ -1,0 +1,37 @@
+name: Fehler oder Frage
+description: Fehler melden oder eine Frage zum Arbeitsblätter-Plugin stellen.
+title: "[Rückmeldung] "
+body:
+  - type: markdown
+    attributes:
+      value: "Dieser Beitrag ist öffentlich. Bitte keine Schülerdaten, Zugangsdaten oder privaten Chatverläufe veröffentlichen."
+  - type: input
+    id: version
+    attributes:
+      label: Pluginversion
+      description: Falls bekannt, die verwendete Version.
+  - type: input
+    id: umgebung
+    attributes:
+      label: Verwendete Umgebung
+      description: Zum Beispiel ChatGPT Work im Browser oder Codex.
+    validations:
+      required: true
+  - type: textarea
+    id: beschreibung
+    attributes:
+      label: Was ist passiert oder was möchtest du wissen?
+      description: Kurze Beschreibung; Screenshots nur anonymisiert anhängen.
+    validations:
+      required: true
+  - type: textarea
+    id: erwartet
+    attributes:
+      label: Was sollte stattdessen passieren?
+  - type: checkboxes
+    id: datenschutz
+    attributes:
+      label: Öffentlicher Beitrag
+      options:
+        - label: Ich habe keine personenbezogenen Schülerdaten oder Zugangsdaten eingefügt.
+          required: true
