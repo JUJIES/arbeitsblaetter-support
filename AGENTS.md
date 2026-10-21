@@ -4,7 +4,7 @@
 
 # Pflege
 
-- README, INSTALLATION, Kurzanleitungs-PDF und Releasehinweise auf denselben Versionsstand halten.
+- README, INSTALLATION und Releasehinweise auf den aktuellen Paketstand halten. Die Kurzanleitungs-PDF bei Änderungen am Bedienablauf aktualisieren; bleibt sie unverändert gültig, ihren älteren Stand ausdrücklich erklären.
 - Deutschsprachiger Arbeitsablauf; andere Arbeitsblattsprachen ausdrücklich möglich, keine pauschale Sprachqualitätsgarantie.
 - Verzeichnisregion Deutschland nicht mit Sprache oder weltweiter GitHub-Sichtbarkeit verwechseln.
 - GitHub-Pilot und OpenAI-Verzeichniseinreichung sind getrennte Veröffentlichungswege. Keine Freigabe behaupten.

@@ -1,5 +1,13 @@
 # Änderungen
 
+## 0.1.41 – Material und Aufgaben, 21. Oktober 2026
+
+- Umfangreiches Material bevorzugt als luftige Materialseite vor einer zusammenhängenden Aufgabenfolge.
+- Entspannte Einseiter und direkt materialbezogene kleine Aufträge bleiben möglich. Keine starre Trennpflicht, Textstreckung oder Restfüller-Aufgabe.
+- Gestaltung, 13 Vorlagen und technische Werkzeuge unverändert. Paket- und Browserstartprüfungen bestanden; noch keine frische Modellprobe der neuen Leitlinie.
+- Kurzanleitung 0.1.40 bleibt für Installation und Bedienung gültig.
+
+
 ## 0.1.40 – öffentlicher GitHub-Pilot, 21. Oktober 2026
 
 - Vollständige Plugin-ZIP mit 13 Arbeitsblattpaketen als GitHub-Prerelease bereitgestellt.
