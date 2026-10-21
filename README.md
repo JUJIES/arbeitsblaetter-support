@@ -1,29 +1,41 @@
 # JUJIES Arbeitsblätter
 
-Support und Informationen zum Arbeitsblätter-Plugin von [JUJIES](https://github.com/JUJIES).
+Arbeitsblätter planen, als HTML erstellen und gemeinsam überarbeiten – ein Plugin von [JUJIES](https://github.com/JUJIES) für Lehrkräfte in ChatGPT Work und Codex.
 
-Das Plugin unterstützt Lehrkräfte beim Planen, Erstellen und Überarbeiten von Arbeitsblättern in ChatGPT Work oder Codex. Bewährte Layoutfamilien und unterschiedliche Aufgabenbeispiele geben Orientierung; die Gestaltung bleibt am Lernziel und an der Lerngruppe ausgerichtet.
+**Öffentliche Pilotversion 0.1.40:** [Download und Kurzanleitung](https://github.com/JUJIES/arbeitsblaetter-support/releases/tag/v0.1.40).
 
-Dieses Repository enthält **keine Pluginquellen, Arbeitsblattvorlagen oder Installations-ZIP**. Die Vorlagen gehören weiterhin zum Plugin-Paket. Eine Veröffentlichung im Plugin-Verzeichnis wird vorbereitet; das Plugin ist hier nicht zum Download angeboten.
+Die vollständige Plugin-ZIP enthält Regeln, Skripte und **13 Arbeitsblattpakete** als Gestaltungs- und Aufgabenreferenzen. Die Quellen sind dadurch in der ZIP einsehbar; sie liegen nicht zusätzlich als entpackter Quellbaum in diesem Repository. Enthalten sind unter anderem Lesetexte, Leseverständnis, Hörvorlagen, Wortschatz-/Schreibaufgaben, Prozessbeschreibungen, Filmbeobachtung und getrennte Lösungen. Nicht jedes Aufgabenformat hat ein eigenes Beispiel; neue Formate bleiben möglich.
 
-## Einstieg
+## Sprache und Zielgruppe
 
-1. In ChatGPT einen neuen Work-Chat öffnen und das installierte Plugin auswählen.
-2. Fach, Klasse, Thema und Lernziel nennen; vorhandenes Material und besondere Wünsche ergänzen.
-3. Kurze Rückfragen beantworten und den ersten Entwurf prüfen.
-4. Für den Browser das vollständige Ergebnis-Paket herunterladen und entpacken. Die Browser-Startdatei bietet Drucken und Besprechen.
+Der Arbeitsablauf und die Dokumentation sind deutschsprachig ausgerichtet. Das Plugin eignet sich für deutschsprachige Arbeitsblätter und auch für Fremdsprachenunterricht. Englische Beispiele sind bereits enthalten. Andere Arbeitsblattsprachen können ausdrücklich im Auftrag angegeben werden; sprachliche Qualität und landesspezifische Konventionen müssen von einer fachkundigen Lehrkraft geprüft werden. Nicht jede Sprache wurde praktisch getestet.
 
-Ergebnisse sind KI-gestützte Entwürfe. Fachliche Richtigkeit, Passung und Druckansicht vor dem Unterricht selbst prüfen. Automatische Sichtprüfung und PDF-Export hängen von der verfügbaren Browserlaufzeit ab. Bei Browserausdruck zusätzliche Kopf-/Fußzeilen im Druckdialog ausschalten. Eingaben im geöffneten Arbeitsblatt werden nicht automatisch dauerhaft gespeichert.
+Beispiel: „Erstelle ein Arbeitsblatt für Französisch, Klasse 8. Die Aufgaben und der Lesetext sollen auf Französisch sein; Rückfragen an mich bitte auf Deutsch.“
 
-## Support
+Die geplante Region Deutschland für eine spätere Verzeichnisveröffentlichung ist eine Verfügbarkeitseinstellung, keine Beschränkung der möglichen Arbeitsblattsprachen. Dieses öffentliche GitHub-Repository ist weltweit lesbar.
 
-[Fehler melden oder Frage stellen](https://github.com/JUJIES/arbeitsblaetter-support/issues/new/choose)
+## Start in wenigen Schritten
 
-Bitte Pluginversion, verwendete Umgebung, kurze Fehlerbeschreibung und gegebenenfalls einen anonymisierten Screenshot angeben. **Issues und Anhänge sind öffentlich.** Keine Schülernamen, Gesundheitsdaten, Zugangsdaten oder vollständigen privaten Chatverläufe posten.
+1. Unter [Releases](https://github.com/JUJIES/arbeitsblaetter-support/releases/tag/v0.1.40) **JUJIES-Arbeitsblaetter-0.1.40-Pilot.zip** herunterladen, nicht „Source code (zip)“. Die Plugin-ZIP nicht entpacken.
+2. In ChatGPT **Plugins → Hinzufügen → Plugin-Archiv hochladen** wählen, soweit diese Importfunktion im eigenen Konto vorhanden ist. ZIP auswählen und die angezeigten Installationsschritte abschließen.
+3. Einen neuen **Work**-Chat öffnen, **@JUJIES Arbeitsblätter** auswählen und Fach, Klasse, Thema und Lernziel nennen.
+4. Kurze Rückfragen beantworten, den Entwurf prüfen und konkrete Änderungen anfordern.
+5. Das erzeugte **Arbeitsblatt-Paket** vollständig entpacken und seine Browser-Startdatei öffnen. Dort gibt es **Drucken** und **Besprechen**.
 
-## Weitere Hinweise
+[Ausführliche Installation und Nutzung](INSTALLATION.md) · [Kurzanleitung mit Screenshots](docs/Kurzanleitung-0.1.40.pdf)
+
+## Was beim Pilottest wichtig ist
+
+Ergebnisse sind KI-gestützte Entwürfe. Fachliche Richtigkeit, Lerngruppenpassung, Bilder und Druckansicht vor dem Unterricht prüfen. Automatische Sichtprüfung und PDF-Export hängen von der verfügbaren Browserlaufzeit ab. Eine einzelne ChatGPT-HTML-Vorschau kann zugehörige Bilder/CSS nicht zuverlässig laden; das vollständige Paket verwenden. Eingaben im Arbeitsblatt werden nicht automatisch dauerhaft gespeichert.
+
+Keine Annahme oder Veröffentlichung im OpenAI-Plugin-Verzeichnis ist damit belegt. Der GitHub-Pilot ist ein separater manueller Verteilungsweg. Neue ZIP-Versionen selbst herunterladen und importieren; keine automatische Aktualisierung zugesichert.
+
+## Support und Hinweise
+
+[Fehler melden oder Frage stellen](https://github.com/JUJIES/arbeitsblaetter-support/issues/new/choose). Bitte Version, verwendete Umgebung, kurze Fehlerbeschreibung und gegebenenfalls anonymisierten Screenshot angeben. **Issues und Anhänge sind öffentlich.** Keine Schülernamen, Gesundheitsdaten, Zugangsdaten oder privaten Chatverläufe posten.
 
 - [Datenschutz](DATENSCHUTZ.md)
-- [Nutzung und Grenzen](NUTZUNG.md)
+- [Nutzung und Rechte](NUTZUNG.md)
+- [Änderungsverlauf](CHANGELOG.md)
 
-Herausgeber: JUJIES. Dieses Projekt stammt nicht von OpenAI und wird nicht als von OpenAI geprüft oder empfohlen dargestellt.
+Dieses Projekt stammt nicht von OpenAI und wird nicht als von OpenAI geprüft oder empfohlen dargestellt.
