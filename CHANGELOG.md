@@ -1,5 +1,12 @@
 # Änderungen
 
+## 0.1.47 – verbundene Prüfschleifen, 22. Oktober 2026
+
+- Seitenplanung, selbst gelöste Aufgaben als Gegenprobe und Rückkopplung in Aufgaben, Lösungen und Schreibraum im bestehenden Ablauf verbindlich verbunden.
+- Technische Prüfung und tatsächliche Screenshot-/Druckbildsichtung bleiben getrennte Nachweise. Änderungen erfordern passende Nachprüfung am aktuellen Quellstand.
+- Nach Erstprüfung höchstens zwei gebündelte automatische Korrekturrunden; bei Zielkonflikt oder Restfehler offen aussteigen, kein identischer Werkzeug-/Prüfloop.
+- Keine neue Regeldatei, keine Änderungen an Laufzeit oder Vorlagen. Praktische Verhaltensproben folgen erst nach Finalisierung; Dokumentationsprüfung allein ist kein Modellnachweis.
+
 ## 0.1.46 – leere und stabile Druckfelder, 22. Oktober 2026
 
 - Browserstart setzt Felder zum Drucken auf die ursprüngliche Vorlage zurück und stellt digitale Antworten/Auswahl danach wieder her, auch nach Abbruch. Vorgegebene Lösungen bleiben erhalten.
