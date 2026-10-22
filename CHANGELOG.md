@@ -1,5 +1,11 @@
 # Änderungen
 
+## 0.1.49 – Artefakte und Bildlogik, 22. Oktober 2026
+
+- Tatsächliche Bilddateien auf sichtbare KI-Artefakte, unlogische Details und falsche Beschriftungen prüfen; bei unklaren Details vergrößern. Fehler korrigieren, neu erzeugen oder Bild ersetzen, danach erneut ansehen.
+- Bewusste Stilisierung bleibt zulässig; dieselbe begrenzte Bild-/Sichtprüfung, keine weitere Schleife. Laufzeit und Vorlagen unverändert.
+- Paket-/Link-/Konsistenzprüfung bestanden. Neue Modell-Verhaltensprobe und zuverlässige Work-Cloud-Sichtprüfung weiterhin offen; keine neue Rendererintegration.
+
 ## 0.1.48 – Bildpassung und Einbettung, 22. Oktober 2026
 
 - Fachlichen Nutzen jeder Grafik und ihre tatsächliche Einbettung in Bildschirm und Druck gemeinsam prüfen; Details, Beschriftungen, Text-/Aufgabenbezug und unbeabsichtigte Lösungshinweise berücksichtigen.
