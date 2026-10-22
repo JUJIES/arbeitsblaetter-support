@@ -2,7 +2,7 @@
 
 Arbeitsblätter planen, als HTML erstellen und gemeinsam überarbeiten – ein Plugin von [JUJIES](https://github.com/JUJIES) für Lehrkräfte in ChatGPT Work und Codex.
 
-**Öffentliche Pilotversion 0.1.46:** [Download und Kurzanleitung](https://github.com/JUJIES/arbeitsblaetter-support/releases/tag/v0.1.46).
+**Öffentliche Pilotversion 0.1.47:** [Download und Kurzanleitung](https://github.com/JUJIES/arbeitsblaetter-support/releases/tag/v0.1.47).
 
 Die vollständige Plugin-ZIP enthält Regeln, Skripte und **13 Arbeitsblattpakete** als Gestaltungs- und Aufgabenreferenzen. Die Quellen sind dadurch in der ZIP einsehbar; sie liegen nicht zusätzlich als entpackter Quellbaum in diesem Repository. Enthalten sind unter anderem Lesetexte, Leseverständnis, Hörvorlagen, Wortschatz-/Schreibaufgaben, Prozessbeschreibungen, Filmbeobachtung und getrennte Lösungen. Nicht jedes Aufgabenformat hat ein eigenes Beispiel; neue Formate bleiben möglich.
 
@@ -16,7 +16,7 @@ Die geplante Region Deutschland für eine spätere Verzeichnisveröffentlichung 
 
 ## Start in wenigen Schritten
 
-1. Unter [Releases](https://github.com/JUJIES/arbeitsblaetter-support/releases/tag/v0.1.46) **JUJIES-Arbeitsblaetter-0.1.46-Pilot.zip** herunterladen, nicht „Source code (zip)“. Die Plugin-ZIP nicht entpacken.
+1. Unter [Releases](https://github.com/JUJIES/arbeitsblaetter-support/releases/tag/v0.1.47) **JUJIES-Arbeitsblaetter-0.1.47-Pilot.zip** herunterladen, nicht „Source code (zip)“. Die Plugin-ZIP nicht entpacken.
 2. In ChatGPT **Plugins → Hinzufügen → Plugin-Archiv hochladen** wählen, soweit diese Importfunktion im eigenen Konto vorhanden ist. ZIP auswählen und die angezeigten Installationsschritte abschließen.
 3. Einen neuen **Work**-Chat öffnen, **@JUJIES Arbeitsblätter** auswählen und Fach, Klasse, Thema und Lernziel nennen.
 4. Kurze Rückfragen beantworten, den Entwurf prüfen und konkrete Änderungen anfordern.
