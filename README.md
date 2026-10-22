@@ -2,7 +2,7 @@
 
 Arbeitsblätter planen, als HTML erstellen und gemeinsam überarbeiten – ein Plugin von [JUJIES](https://github.com/JUJIES) für Lehrkräfte in ChatGPT Work und Codex.
 
-**Öffentliche Pilotversion 0.1.49:** [Download und Kurzanleitung](https://github.com/JUJIES/arbeitsblaetter-support/releases/tag/v0.1.49).
+**Öffentliche Pilotversion 0.1.52:** [Download und Kurzanleitung](https://github.com/JUJIES/arbeitsblaetter-support/releases/tag/v0.1.52).
 
 Die vollständige Plugin-ZIP enthält Regeln, Skripte und **13 Arbeitsblattpakete** als Gestaltungs- und Aufgabenreferenzen. Die Quellen sind dadurch in der ZIP einsehbar; sie liegen nicht zusätzlich als entpackter Quellbaum in diesem Repository. Enthalten sind unter anderem Lesetexte, Leseverständnis, Hörvorlagen, Wortschatz-/Schreibaufgaben, Prozessbeschreibungen, Filmbeobachtung und getrennte Lösungen. Nicht jedes Aufgabenformat hat ein eigenes Beispiel; neue Formate bleiben möglich.
 
@@ -16,7 +16,7 @@ Die geplante Region Deutschland für eine spätere Verzeichnisveröffentlichung 
 
 ## Start in wenigen Schritten
 
-1. Unter [Releases](https://github.com/JUJIES/arbeitsblaetter-support/releases/tag/v0.1.49) **JUJIES-Arbeitsblaetter-0.1.49-Pilot.zip** herunterladen, nicht „Source code (zip)“. Die Plugin-ZIP nicht entpacken.
+1. Unter [Releases](https://github.com/JUJIES/arbeitsblaetter-support/releases/tag/v0.1.52) **JUJIES-Arbeitsblaetter-0.1.52-Pilot.zip** herunterladen, nicht „Source code (zip)“. Die Plugin-ZIP nicht entpacken.
 2. In ChatGPT **Plugins → Hinzufügen → Plugin-Archiv hochladen** wählen, soweit diese Importfunktion im eigenen Konto vorhanden ist. ZIP auswählen und die angezeigten Installationsschritte abschließen.
 3. Einen neuen **Work**-Chat öffnen, **@JUJIES Arbeitsblätter** auswählen und Fach, Klasse, Thema und Lernziel nennen.
 4. Kurze Rückfragen beantworten, den Entwurf prüfen und konkrete Änderungen anfordern.
@@ -26,7 +26,7 @@ Die geplante Region Deutschland für eine spätere Verzeichnisveröffentlichung 
 
 ## Was beim Pilottest wichtig ist
 
-Ergebnisse sind KI-gestützte Entwürfe. Fachliche Richtigkeit, Lerngruppenpassung, Bilder und Druckansicht vor dem Unterricht prüfen. HTML ist die Hauptausgabe; „Drucken / PDF“ öffnet den Druckdialog des Browsers. Eine zusätzlich im Chat angefragte PDF und automatische Sichtprüfung hängen von den verfügbaren Werkzeugen ab; fehlen sie, bleibt der Prüfstand offen. Eine einzelne ChatGPT-HTML-Vorschau kann zugehörige Bilder/CSS nicht zuverlässig laden; das vollständige Paket verwenden. Eingaben im Arbeitsblatt werden nicht automatisch dauerhaft gespeichert.
+Ergebnisse sind KI-gestützte Entwürfe. Fachliche Richtigkeit, Lerngruppenpassung, Bilder und Druckansicht vor dem Unterricht prüfen. HTML ist die Hauptausgabe; „Drucken / PDF“ öffnet den Druckdialog des Browsers. In Work erzeugt ein interner PDF-Weg echte Seitenbilder, die das Modell ansieht und für Nachbesserungen nutzt; kein eigener Server oder Zusatzkonto nötig. Die Werkzeuge müssen in der Work-Umgebung verfügbar sein; bei Ausfall bleibt dieser Prüfstand offen. Browserbedienung und Druck nach digitalen Eingaben sind separate Prüfungen. Eine PDF kann zusätzlich im Chat angefragt werden. Eine einzelne ChatGPT-HTML-Vorschau kann zugehörige Bilder/CSS nicht zuverlässig laden; das vollständige Paket verwenden. Eingaben im Arbeitsblatt werden nicht automatisch dauerhaft gespeichert.
 
 Keine Annahme oder Veröffentlichung im OpenAI-Plugin-Verzeichnis ist damit belegt. Der GitHub-Pilot ist ein separater manueller Verteilungsweg. Neue ZIP-Versionen selbst herunterladen und importieren; keine automatische Aktualisierung zugesichert.
 
