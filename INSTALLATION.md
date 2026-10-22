@@ -2,7 +2,7 @@
 
 ## 1. Die richtige ZIP herunterladen
 
-Öffne die [Pilotversion 0.1.44](https://github.com/JUJIES/arbeitsblaetter-support/releases/tag/v0.1.44) und lade unter „Assets“ **JUJIES-Arbeitsblaetter-0.1.44-Pilot.zip** herunter. Nicht „Source code (zip)“ wählen: Das ist nur dieses Dokumentationsrepository und kein installierbares Pluginpaket.
+Öffne die [Pilotversion 0.1.45](https://github.com/JUJIES/arbeitsblaetter-support/releases/tag/v0.1.45) und lade unter „Assets“ **JUJIES-Arbeitsblaetter-0.1.45-Pilot.zip** herunter. Nicht „Source code (zip)“ wählen: Das ist nur dieses Dokumentationsrepository und kein installierbares Pluginpaket.
 
 Die Plugin-ZIP **nicht entpacken**. Die Prüfsumme steht in `SHA256SUMS.txt` beim Release.
 
@@ -34,7 +34,7 @@ Die 13 Vorlagen im Plugin geben Orientierung für Gestaltung und Aufgabenformen.
 
 Die **Ergebnis-ZIP mit dem Arbeitsblatt** diesmal vollständig entpacken und alle Dateien/Unterordner zusammenlassen. Die Startdatei mit „Browser“ im Namen öffnen; der genaue Dateiname kann variieren.
 
-- **Drucken:** öffnet den Druckdialog, soweit die Browserumgebung das erlaubt. Browserseitige Kopf-/Fußzeilen deaktivieren, damit Datum und Webadresse nicht zusätzlich erscheinen. Alle Seiten in der Vorschau prüfen.
+- **Drucken / PDF:** öffnet den Browser-Druckdialog. Dort drucken oder je nach Gerät „Als PDF speichern“ wählen. A4 / 100 % verwenden und browserseitige Kopf-/Fußzeilen ausschalten, damit Datum und Webadresse nicht zusätzlich erscheinen. Alle Seiten in der Vorschau prüfen. Der Button ist kein direkter PDF-Download.
 - **Besprechen:** vergrößert das Arbeitsblatt und erlaubt Aufgabenwahl für die gemeinsame Auswertung. Eingaben bleiben beim Ansichtwechsel erhalten.
 - **PDF:** kann zusätzlich im Chat angefragt werden. Sie wird aus HTML abgeleitet; Erstellung und automatische Prüfung hängen von den verfügbaren Werkzeugen ab.
 
@@ -48,4 +48,4 @@ Neue Releases manuell herunterladen und über die angebotene Import-/Aktualisier
 
 [Kurzanleitung mit Screenshots](docs/Kurzanleitung-0.1.40.pdf). Die Screenshots stammen aus der vorherigen Pilotoberfläche mit dem kürzeren Namen „Arbeitsblätter“; der aktuelle Pluginname lautet „JUJIES Arbeitsblätter“. Menübezeichnungen können sich ändern.
 
-Die bebilderte Kurzanleitung trägt Stand 0.1.40; Installation und Bedienung gelten unverändert auch für 0.1.44.
+Die bebilderte Kurzanleitung trägt Stand 0.1.40. Die Installation bleibt gleich; die dortige Schaltfläche „Drucken“ heißt ab 0.1.45 „Drucken / PDF“.
