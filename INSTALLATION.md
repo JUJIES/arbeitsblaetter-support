@@ -2,7 +2,7 @@
 
 ## 1. Die richtige ZIP herunterladen
 
-Öffne die [Pilotversion 0.1.47](https://github.com/JUJIES/arbeitsblaetter-support/releases/tag/v0.1.47) und lade unter „Assets“ **JUJIES-Arbeitsblaetter-0.1.47-Pilot.zip** herunter. Nicht „Source code (zip)“ wählen: Das ist nur dieses Dokumentationsrepository und kein installierbares Pluginpaket.
+Öffne die [Pilotversion 0.1.52](https://github.com/JUJIES/arbeitsblaetter-support/releases/tag/v0.1.52) und lade unter „Assets“ **JUJIES-Arbeitsblaetter-0.1.52-Pilot.zip** herunter. Nicht „Source code (zip)“ wählen: Das ist nur dieses Dokumentationsrepository und kein installierbares Pluginpaket.
 
 Die Plugin-ZIP **nicht entpacken**. Die Prüfsumme steht in `SHA256SUMS.txt` beim Release.
 
@@ -36,7 +36,7 @@ Die **Ergebnis-ZIP mit dem Arbeitsblatt** diesmal vollständig entpacken und all
 
 - **Drucken / PDF:** öffnet den Browser-Druckdialog. Dort drucken oder je nach Gerät „Als PDF speichern“ wählen. A4 / 100 % verwenden und browserseitige Kopf-/Fußzeilen ausschalten, damit Datum und Webadresse nicht zusätzlich erscheinen. Alle Seiten in der Vorschau prüfen. Der Button ist kein direkter PDF-Download.
 - **Besprechen:** vergrößert das Arbeitsblatt und erlaubt Aufgabenwahl für die gemeinsame Auswertung. Eingaben bleiben beim Ansichtwechsel erhalten.
-- **PDF:** kann zusätzlich im Chat angefragt werden. Sie wird aus HTML abgeleitet; Erstellung und automatische Prüfung hängen von den verfügbaren Werkzeugen ab.
+- **PDF:** kann zusätzlich im Chat angefragt werden. Der interne Work-Prüfweg leitet sie aus derselben HTML-Quelle ab und erzeugt echte Seitenbilder zur Sichtung durch das Modell. Er braucht keinen lokalen Prüfbrowser, eigenen Server oder weiteren Account. Fehlende Cloud-Werkzeuge bleiben ausgewiesen; die Bedienung im Browser wird separat geprüft.
 
 Der Browserstart druckt den ursprünglichen Feldzustand und stellt digitale Antworten danach wieder her. Vorgegebene Lösungen bleiben erhalten.
 

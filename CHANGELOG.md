@@ -1,5 +1,14 @@
 # Änderungen
 
+## 0.1.52 – interne Sichtprüfung in Work, 22. Oktober 2026
+
+- WeasyPrint 70.0 und vorhandene PDF-Werkzeuge erzeugen echte Seitenbilder aus unverändertem HTML/CSS. Das Modell sieht sie an und bessert innerhalb der bestehenden höchstens zwei Korrekturrunden nach. Keine Browserinstallation, eigener Server oder zusätzlicher Account.
+- Bestehender Importparser, feste Laufzeitgrenzen, Quellhashes und ehrlicher Teilstatus; PDF-Sichtung ersetzt keine Browser-/Interaktionsprüfung. 13 Vorlagen, Look und Gestaltungsspielraum unverändert.
+- Sieben vorhandene Kandidaten in gewöhnlichem Work gerendert und alle 15 Seiten gesichtet; absichtlich übervolles Material visuell abgelehnt. Sechs reguläre Kandidaten bestehen zusätzlich den unveränderten lokalen Chromium-Abschluss.
+- Neues Wasserblatt in frischem Work mit ausdrücklich übertragenem Baustein: 4→3→2 Schülerseiten nach zwei Korrekturrunden, separate Lösungsseite. Weitere frische Probe nutzt den installierten Pluginablauf ohne technische Zusatzhinweise: Überlauf erkannt und nach zwei Runden 2+1 Seiten, tatsächlich gesichtet. Gemeinsamer Work-Ausführungsbereich, keine Zusage für jedes Konto.
+- Die Verhaltensprobe lief mit 0.1.50. Die privaten Zwischenstände 0.1.50/0.1.51 wurden zur Metadatenangleichung durch 0.1.52 ersetzt; alle Skills, Prüfskripte und Vorlagen sind dabei byteidentisch geblieben. Nur 0.1.52 wird als neuer öffentlicher Pilot verteilt.
+
+
 ## 0.1.49 – Artefakte und Bildlogik, 22. Oktober 2026
 
 - Tatsächliche Bilddateien auf sichtbare KI-Artefakte, unlogische Details und falsche Beschriftungen prüfen; bei unklaren Details vergrößern. Fehler korrigieren, neu erzeugen oder Bild ersetzen, danach erneut ansehen.
