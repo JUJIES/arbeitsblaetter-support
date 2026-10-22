@@ -1,5 +1,13 @@
 # Änderungen
 
+## 0.1.44 – Cloud- und Druckdiagnose, 22. Oktober 2026
+
+- Druckfläche aus CSS ermitteln und mitwachsendes HTML sowie abgeschnittene Inhalte erkennen; Fehler mit Seite und Überlauf in mm. PDF-Seitenzahl und Eingabeprüfung bleiben erhalten.
+- Vollständiger Cloud-Laufzeitbericht statt abgeschnittener Downloadfehler; keine zusätzliche identische Installationsschleife.
+- Aktuelle Work-Cloud-Proben erhalten vom offiziellen Browser-CDN eine HTML-Fehlerseite. PDF-/Sichtprüfung bleiben dort offen; keine behobene Hostgrenze behauptet.
+- 13 Vorlagen, Look und didaktische Regeln unverändert. Privater Zwischenstand 0.1.43 enthielt einen flüchtigen Prüfcache; vor öffentlicher Verteilung in 0.1.44 entfernt.
+
+
 ## 0.1.42 – erkennbare Materialaufträge, 21. Oktober 2026
 
 - Die bestehende Auftragshervorhebung gilt ausdrücklich auch für Lese-, Hör- und Betrachtungsaufträge auf Materialseiten.
