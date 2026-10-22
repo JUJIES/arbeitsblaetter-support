@@ -1,5 +1,12 @@
 # Änderungen
 
+## 0.1.48 – Bildpassung und Einbettung, 22. Oktober 2026
+
+- Fachlichen Nutzen jeder Grafik und ihre tatsächliche Einbettung in Bildschirm und Druck gemeinsam prüfen; Details, Beschriftungen, Text-/Aufgabenbezug und unbeabsichtigte Lösungshinweise berücksichtigen.
+- Befunde in Bildauswahl, Aufgaben/Lösungen oder Layout zurückführen und im bestehenden begrenzten Ablauf nachprüfen; keine weitere Prüfschleife.
+- Ein Bild pro Materialarbeitsblatt bleibt Orientierung, keine Quote pro Seite und kein Bildzwang für reine Aufgaben-/Lösungsblätter. Laufzeit und alle Vorlagen unverändert.
+- Paket-/Link-/Konsistenzprüfung bestanden; keine neue Modell-Verhaltensprobe zu dieser Schärfung, Cloud-Prüfbrowsergrenze weiterhin offen.
+
 ## 0.1.47 – verbundene Prüfschleifen, 22. Oktober 2026
 
 - Seitenplanung, selbst gelöste Aufgaben als Gegenprobe und Rückkopplung in Aufgaben, Lösungen und Schreibraum im bestehenden Ablauf verbindlich verbunden.
