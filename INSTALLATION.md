@@ -38,6 +38,8 @@ Die **Ergebnis-ZIP mit dem Arbeitsblatt** diesmal vollständig entpacken und all
 - **Besprechen:** vergrößert das Arbeitsblatt und erlaubt Aufgabenwahl für die gemeinsame Auswertung. Eingaben bleiben beim Ansichtwechsel erhalten.
 - **PDF:** kann zusätzlich im Chat angefragt werden. Sie wird aus HTML abgeleitet; Erstellung und automatische Prüfung hängen von den verfügbaren Werkzeugen ab.
 
+Der Browserstart druckt den ursprünglichen Feldzustand und stellt digitale Antworten danach wieder her. Vorgegebene Lösungen bleiben erhalten.
+
 Eine eingebettete Einzeldateivorschau kann unvollständig sein. Dann das entpackte Gesamtpaket im Browser verwenden. Digitale Eingaben werden nicht automatisch dauerhaft gespeichert.
 
 ## 6. Rückmeldung und Updates
