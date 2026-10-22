@@ -5,7 +5,7 @@
 - Browserstart setzt Felder zum Drucken auf die ursprüngliche Vorlage zurück und stellt digitale Antworten/Auswahl danach wieder her, auch nach Abbruch. Vorgegebene Lösungen bleiben erhalten.
 - Textfeldränder bleiben nach Bearbeitung stabil. Technischer Abschluss prüft zusätzlich, dass unsichtbare Testantworten nicht im PDF-Text enthalten sind.
 - Neue echte PDF-Regression mit negativer Leckkontrolle; alle 13 Vorlagen technisch geprüft. Layouts und Materialinhalte unverändert.
-- Frischer Work-Download nutzt den exakten neuen Druckcode: beide Feldfehler dort behoben, Papieroptik/Besprechen erhalten. Ein zusätzlicher Seitenüberlauf der neuen Erstfassung bleibt ein separater Layoutbefund; keine allgemeine Cloud-Druckfreigabe.
+- Frischer Work-Download nutzt den exakten neuen Druckcode: beide Feldfehler dort behoben, Papieroptik/Besprechen erhalten. Ein zusätzlicher Seitenüberlauf der Erstfassung wurde nach externem lokalen Prüfbefund im selben Work-Chat korrigiert und lokal mit zwei Seiten bestanden; keine automatische Cloud-Korrektur oder allgemeine Cloud-Druckfreigabe.
 
 ## 0.1.45 – einfacher Browserdruck, 22. Oktober 2026
 
