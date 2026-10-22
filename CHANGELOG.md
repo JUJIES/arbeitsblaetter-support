@@ -5,7 +5,9 @@
 - Seitenplanung, selbst gelöste Aufgaben als Gegenprobe und Rückkopplung in Aufgaben, Lösungen und Schreibraum im bestehenden Ablauf verbindlich verbunden.
 - Technische Prüfung und tatsächliche Screenshot-/Druckbildsichtung bleiben getrennte Nachweise. Änderungen erfordern passende Nachprüfung am aktuellen Quellstand.
 - Nach Erstprüfung höchstens zwei gebündelte automatische Korrekturrunden; bei Zielkonflikt oder Restfehler offen aussteigen, kein identischer Werkzeug-/Prüfloop.
-- Keine neue Regeldatei, keine Änderungen an Laufzeit oder Vorlagen. Praktische Verhaltensproben folgen erst nach Finalisierung; Dokumentationsprüfung allein ist kein Modellnachweis.
+- Keine neue Regeldatei, keine Änderungen an Laufzeit oder Vorlagen. Praktische Verhaltensproben erst nach Finalisierung durchgeführt.
+- Zwei frische Work-Chats: korrekte Lösungsgegenprobe und ehrlicher HTML-Teilabschluss bei fehlendem Cloud-Prüfbrowser; widersprüchliche Einseitenvorgaben führen zum klaren Ausstieg. Keine beobachtete Endlosschleife.
+- Lokaler Befund entdeckt weiterhin einen Überlauf der Erstfassung (4,9 mm). Nach Rückmeldung im selben Chat ausschließlich Aufgabenabstände korrigiert; Aufgaben, Schrift und Antwortflächen erhalten, Lösung bytegleich. Lokaler Abschluss samt tatsächlicher Bildschirm-/PDF-Sichtung bestanden. Keine automatische Cloud-Erkennung oder allgemeine Zuverlässigkeitsgarantie; Zwei-Runden-Grenze nicht ausgeschöpft.
 
 ## 0.1.46 – leere und stabile Druckfelder, 22. Oktober 2026
 
