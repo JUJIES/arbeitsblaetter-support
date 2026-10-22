@@ -8,14 +8,6 @@
 - Alle 13 Vorlagen: Bedienung, Papieroptik, Besprechen, Antwortzustand und identischer Ausdruck geprüft. Inhalte und Layouts unverändert; keine native Mobilgeräteprüfung.
 
 
-## 0.1.45 – einfacher Browserdruck, 22. Oktober 2026
-
-- Kompakter Button „Drucken / PDF“ öffnet den bestehenden Browser-Druckdialog. Dort je nach Gerät als PDF speichern; A4 / 100 % und Kopf-/Fußzeilen aus.
-- HTML bleibt Hauptausgabe. PDF auf Wunsch und bei passenden geprüften Werkzeugen; fehlende Cloud-Werkzeuge blockieren die HTML-Lieferung nicht.
-- Keine neue Konvertierungsbibliothek: MuPDF/WeasyPrint erhielten bestehende Vorlagen in Cloud-Proben nicht allgemein zuverlässig.
-- Alle 13 Vorlagen: Bedienung, Papieroptik, Besprechen, Antwortzustand und identischer Ausdruck geprüft. Inhalte und Layouts unverändert; keine native Mobilgeräteprüfung.
-
-
 ## 0.1.44 – Cloud- und Druckdiagnose, 22. Oktober 2026
 
 - Druckfläche aus CSS ermitteln und mitwachsendes HTML sowie abgeschnittene Inhalte erkennen; Fehler mit Seite und Überlauf in mm. PDF-Seitenzahl und Eingabeprüfung bleiben erhalten.
