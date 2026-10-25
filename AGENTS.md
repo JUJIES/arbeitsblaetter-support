@@ -11,3 +11,12 @@
 - Vor Releases vollständige ZIP, Metadaten, Vorlagenanzahl, lokale Ressourcen und Prüfsumme prüfen. Lizenznachweise erhalten. Keine privaten Materialien, Schülerdaten, Zugangsdaten oder internen Rechnerpfade veröffentlichen.
 - Bereits veröffentlichte Assets nicht stillschweigend überschreiben. Neue Version bei Paketänderungen.
 - Änderungen an Support-/Datenverarbeitung in DATENSCHUTZ nachvollziehen; GitHub ist ein öffentlicher Supportkanal.
+
+# Aktueller Pilotstand
+
+Öffentlicher Pilot v0.1.64: Release-ZIP, Prüfsummen und Kurzanleitung gehören zum
+selben Tag. Der Plugininhalt liegt nur in der ZIP; deren 328 Dateien entsprechen
+dem abgeglichenen privaten 0.1.64. Frühere Releaseassets und PDF-Anleitungen sind
+Historie und werden nicht überschrieben. Die aktuelle Kurzanleitung hat Textstand
+0.1.64; ihre älteren UI-Screenshots sind gekennzeichnet. Cloud-/Browsernachweise
+und offene Zielwege getrennt nennen. GitHub-Pilot ist keine Verzeichnisfreigabe.

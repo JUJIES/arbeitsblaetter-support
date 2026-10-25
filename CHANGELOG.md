@@ -1,5 +1,15 @@
 # Änderungen
 
+## 0.1.64 – vollständige Referenzen und schlanker Abschluss, 25. Oktober 2026
+
+- Aktualisierter öffentlicher Pilot nach dem privaten Stand 0.1.52: gleiche Version und dieselben 328 Paketdateien wie das abgeglichene private Konto, die Arbeitsquelle und die lokale Codex-Installation. Die Pilot-ZIP ist nur umbenannt, nicht neu zusammengestellt.
+- Mehrere gezielte Vorlagen statt einer verpflichtenden Leitvorlage: gemeinsame Handschrift, freie Aufgabenformen, Querformat und gezielte Nutzerrevisionen. Unterer Seitenabschluss in den aktiven Vorlagen vereinheitlicht; ausgewählte Referenzen vollständig mit CSS und Bildern abrufbar.
+- Gemeinsamer technischer Abschluss für Schüler und Lösungen über die bestehenden Prüfer. Erfolgreiche Nachweise und Ressourcen nur nach Prüfung von Quellen, Werkzeugen und Ergebnisbytes wiederverwenden; kein visueller oder didaktischer Freigabestempel aus dem Cache.
+- Kurze technische Statusmeldungen; schriftliche Prüfnotiz normalerweise vier Punkte und höchstens 150 Wörter. Details in vorhandenen Lösungen/Prüfberichten statt doppelter Prosa. Selbstlösung, Redundanz-/Musterprüfung, Sichtung und begrenzte Korrekturrunden bleiben verbindlich.
+- Praktisch geprüft: unterschiedliche Formate und Layoutrevisionen; vollständiger Referenzabruf; gemeinsamer Abschluss und unveränderte Wiederverwendung. Frische Work-Probe mit unverändertem Solarfährenauftrag: Prüfnotiz 131 statt 570 Wörter, vier Punkte, tatsächliche Gegenprobe und Sichtung beider End-PDF-Seiten. Beide Endmaterialien und gelieferten Browserstarts bestehen zusätzlich die lokale Browserprüfung.
+- Einzelauswertungen sind keine allgemeine Zuverlässigkeits- oder Geschwindigkeitsgarantie. Cloud-PDF-Prüfung bleibt von Browserbedienung, nativem Druckdialog und Tafelraum-/Room-Abnahme getrennt. In der letzten Work-Probe war die Gesamtübersicht nicht abrufbar; die beiden vollständigen Referenzpakete waren verfügbar. Nicht jede Bild-, Aufgaben- oder Sprachvariante ist geprüft.
+- README, Installationsanleitung und bebilderte Kurzanleitung auf 0.1.64 aktualisiert. Ältere UI-Bilder als Orientierung gekennzeichnet. Keine neue OpenAI-Verzeichniseinreichung, kein öffentlich angebundener MCP-Server und keine Änderung an Datenverarbeitung oder Supportkanal.
+
 ## 0.1.52 – interne Sichtprüfung in Work, 22. Oktober 2026
 
 - WeasyPrint 70.0 und vorhandene PDF-Werkzeuge erzeugen echte Seitenbilder aus unverändertem HTML/CSS. Das Modell sieht sie an und bessert innerhalb der bestehenden höchstens zwei Korrekturrunden nach. Keine Browserinstallation, eigener Server oder zusätzlicher Account.

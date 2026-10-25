@@ -2,7 +2,7 @@
 
 ## 1. Die richtige ZIP herunterladen
 
-Öffne die [Pilotversion 0.1.52](https://github.com/JUJIES/arbeitsblaetter-support/releases/tag/v0.1.52) und lade unter „Assets“ **JUJIES-Arbeitsblaetter-0.1.52-Pilot.zip** herunter. Nicht „Source code (zip)“ wählen: Das ist nur dieses Dokumentationsrepository und kein installierbares Pluginpaket.
+Öffne die [Pilotversion 0.1.64](https://github.com/JUJIES/arbeitsblaetter-support/releases/tag/v0.1.64) und lade unter „Assets“ **JUJIES-Arbeitsblaetter-0.1.64-Pilot.zip** herunter. Nicht „Source code (zip)“ wählen: Das ist nur dieses Dokumentationsrepository und kein installierbares Pluginpaket.
 
 Die Plugin-ZIP **nicht entpacken**. Die Prüfsumme steht in `SHA256SUMS.txt` beim Release.
 
@@ -28,7 +28,7 @@ Der Ablauf ist deutschsprachig ausgerichtet, legt aber nicht alle Arbeitsblätte
 
 Das Plugin soll wichtige Lücken kurz klären und dann einen Entwurf erstellen. Aufgaben, Schwierigkeitsgrad, Textumfang, Bilder und Schreibraum prüfen. Konkretes Feedback hilft: „Aufgabe 3 ist zu schwer; einfacher formulieren und mehr Platz für zwei Sätze lassen.“
 
-Die 13 Vorlagen im Plugin geben Orientierung für Gestaltung und Aufgabenformen. Sie sind keine vorgeschriebene Schablone. Reine Tests dürfen schlichter ausfallen. Name, Datum und sichtbare Zeitangaben oder zusätzliche Worthilfen ausdrücklich wünschen, wenn sie benötigt werden.
+Die 13 Referenzpakete werden bei Auswahl mit CSS und Bildern vollständig bereitgestellt. Mehrere passende Beispiele geben gemeinsam Orientierung für Gestaltung und Aufgabenformen. Sie sind keine vorgeschriebene Schablone. Reine Tests dürfen schlichter ausfallen. Name, Datum und sichtbare Zeitangaben oder zusätzliche Worthilfen ausdrücklich wünschen, wenn sie benötigt werden.
 
 ## 5. Ergebnis öffnen, besprechen und drucken
 
@@ -40,6 +40,8 @@ Die **Ergebnis-ZIP mit dem Arbeitsblatt** diesmal vollständig entpacken und all
 
 Der Browserstart druckt den ursprünglichen Feldzustand und stellt digitale Antworten danach wieder her. Vorgegebene Lösungen bleiben erhalten.
 
+Die mitgelieferte `PRUEFNOTIZ.md` ist normalerweise eine Kurzfassung mit vier Punkten und höchstens 150 Wörtern: finaler Stand, inhaltliche Gegenprobe/Befunde, tatsächliche Sichtung/Technik und offene Wege. Vollständige technische Details bleiben intern bzw. können gesondert angefragt werden. Ein kurzer Bericht bedeutet nicht weniger Prüfung.
+
 Eine eingebettete Einzeldateivorschau kann unvollständig sein. Dann das entpackte Gesamtpaket im Browser verwenden. Digitale Eingaben werden nicht automatisch dauerhaft gespeichert.
 
 ## 6. Rückmeldung und Updates
@@ -48,6 +50,4 @@ Im [Support](https://github.com/JUJIES/arbeitsblaetter-support/issues/new/choose
 
 Neue Releases manuell herunterladen und über die angebotene Import-/Aktualisierungsfunktion installieren. Falls das Konto nur einen Neuimport anbietet, anschließend bewusst die richtige Pluginversion auswählen. Bereits erstellte Arbeitsblätter werden durch eine neue Pluginversion nicht automatisch überarbeitet.
 
-[Kurzanleitung mit Screenshots](docs/Kurzanleitung-0.1.40.pdf). Die Screenshots stammen aus der vorherigen Pilotoberfläche mit dem kürzeren Namen „Arbeitsblätter“; der aktuelle Pluginname lautet „JUJIES Arbeitsblätter“. Menübezeichnungen können sich ändern.
-
-Die bebilderte Kurzanleitung trägt Stand 0.1.40. Die Installation bleibt gleich; die dortige Schaltfläche „Drucken“ heißt seit 0.1.45 „Drucken / PDF“.
+[Kurzanleitung mit Screenshots](docs/Kurzanleitung-0.1.64.pdf), Textstand 0.1.64. Die entsprechend beschrifteten Bilder zeigen die frühere Pilotoberfläche mit dem kürzeren Namen „Arbeitsblätter“. Aktuell „JUJIES Arbeitsblätter“ auswählen; Menübezeichnungen und Importverfügbarkeit können je nach Konto abweichen.
