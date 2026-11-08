@@ -14,9 +14,15 @@
 
 # Aktueller Pilotstand
 
-Öffentlicher Pilot v0.1.64: Release-ZIP, Prüfsummen und Kurzanleitung gehören zum
-selben Tag. Der Plugininhalt liegt nur in der ZIP; deren 328 Dateien entsprechen
-dem abgeglichenen privaten 0.1.64. Frühere Releaseassets und PDF-Anleitungen sind
-Historie und werden nicht überschrieben. Die aktuelle Kurzanleitung hat Textstand
-0.1.64; ihre älteren UI-Screenshots sind gekennzeichnet. Cloud-/Browsernachweise
-und offene Zielwege getrennt nennen. GitHub-Pilot ist keine Verzeichnisfreigabe.
+Öffentlicher Pilot 0.1.64+privacy.1. Diese gekennzeichnete Datenschutzfassung
+basiert auf 0.1.64. Geändert sind zwei Versionsfelder und persönliche
+Herkunftsvermerke. Die 328 Dateien, Funktionen, Ressourcen und 13 Beispielpakete
+bleiben in derselben Struktur. Die Kurzanleitung beschreibt den ursprünglichen
+Pilot 0.1.64; aktuelle Versions- und Dateinamen stehen im README.
+
+Am 8. November 2026 wurden ältere personenbezogene Pilot-ZIPs und die alte
+0.1.40-PDF aus den GitHub-Releases zurückgezogen. Die historischen Releases
+verlinken die Ersatzfassung. Bestehende Paketbytes werden nicht still überschrieben.
+Die bereinigte PDF-Autorenangabe ist auch in der Repository-Historie korrigiert.
+Die OpenAI-Verzeichniseinreichung und ihre separaten Serverendpunkte werden
+durch diese Pflege des GitHub-Piloten nicht aktualisiert.

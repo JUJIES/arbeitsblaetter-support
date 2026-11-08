@@ -2,7 +2,7 @@
 
 ## 1. Die richtige ZIP herunterladen
 
-Öffne die [Pilotversion 0.1.64](https://github.com/JUJIES/arbeitsblaetter-support/releases/tag/v0.1.64) und lade unter „Assets“ **JUJIES-Arbeitsblaetter-0.1.64-Pilot.zip** herunter. Nicht „Source code (zip)“ wählen: Das ist nur dieses Dokumentationsrepository und kein installierbares Pluginpaket.
+Öffne die [Pilotversion 0.1.64](https://github.com/JUJIES/arbeitsblaetter-support/releases/tag/v0.1.64+privacy.1) und lade unter „Assets“ **JUJIES-Arbeitsblaetter-0.1.64-privacy.1-Pilot.zip** herunter. Nicht „Source code (zip)“ wählen: Das ist nur dieses Dokumentationsrepository und kein installierbares Pluginpaket.
 
 Die Plugin-ZIP **nicht entpacken**. Die Prüfsumme steht in `SHA256SUMS.txt` beim Release.
 
@@ -51,3 +51,14 @@ Im [Support](https://github.com/JUJIES/arbeitsblaetter-support/issues/new/choose
 Neue Releases manuell herunterladen und über die angebotene Import-/Aktualisierungsfunktion installieren. Falls das Konto nur einen Neuimport anbietet, anschließend bewusst die richtige Pluginversion auswählen. Bereits erstellte Arbeitsblätter werden durch eine neue Pluginversion nicht automatisch überarbeitet.
 
 [Kurzanleitung mit Screenshots](docs/Kurzanleitung-0.1.64.pdf), Textstand 0.1.64. Die entsprechend beschrifteten Bilder zeigen die frühere Pilotoberfläche mit dem kürzeren Namen „Arbeitsblätter“. Aktuell „JUJIES Arbeitsblätter“ auswählen; Menübezeichnungen und Importverfügbarkeit können je nach Konto abweichen.
+
+## Datenschutzpflege vom 8. November 2026
+
+Der Download 0.1.64+privacy.1 ist eine gekennzeichnete Datenschutzfassung des
+bisherigen GitHub-Piloten 0.1.64. Persönliche Herkunftsvermerke wurden neutralisiert.
+Funktionen, Skripte, Bilder, Vorlagen und Pluginidentität entsprechen 0.1.64.
+Die Kurzanleitung zeigt dessen Versions- und Dateinamen; für den Download gelten
+die aktuellen Angaben auf dieser Seite. Ältere personenbezogene Pilot-ZIPs und
+die alte PDF 0.1.40 wurden zurückgezogen und durch diesen Download ersetzt.
+Der separate OpenAI-Einreichungsweg und der laufende Rechendienst werden dadurch
+nicht aktualisiert.

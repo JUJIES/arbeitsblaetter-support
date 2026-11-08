@@ -1,3 +1,11 @@
+# Datenschutzfassung 0.1.64+privacy.1 – 8. November 2026
+
+- Persönliche Herkunftsvermerke im öffentlichen Pilotpaket neutralisiert.
+- Eigene Autorenmetadaten der historischen PDF 0.1.40 bereinigt.
+- Historische personenbezogene Downloads zurückgezogen; Ersatz auf den Release-Seiten verlinkt.
+- Zwei Paketversionsfelder geändert. Funktionale Dateien und Ressourcen bytegleich zu 0.1.64.
+- Eigenständiger GitHub-Pilot; keine neue OpenAI-Einreichung und kein Serverupdate.
+
 # Änderungen
 
 ## 0.1.64 – vollständige Referenzen und schlanker Abschluss, 25. Oktober 2026

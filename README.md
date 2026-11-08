@@ -2,7 +2,7 @@
 
 Arbeitsblätter planen, als HTML erstellen und gemeinsam überarbeiten – ein Plugin von [JUJIES](https://github.com/JUJIES) für Lehrkräfte in ChatGPT Work und Codex.
 
-**Öffentliche Pilotversion 0.1.64:** [Download und Kurzanleitung](https://github.com/JUJIES/arbeitsblaetter-support/releases/tag/v0.1.64).
+**Öffentliche Pilotversion 0.1.64+privacy.1:** [Download und Kurzanleitung](https://github.com/JUJIES/arbeitsblaetter-support/releases/tag/v0.1.64+privacy.1).
 
 Die vollständige Plugin-ZIP enthält Regeln, Skripte und **13 Arbeitsblattpakete** als Gestaltungs- und Aufgabenreferenzen. Die Quellen sind dadurch in der ZIP einsehbar; sie liegen nicht zusätzlich als entpackter Quellbaum in diesem Repository. Enthalten sind unter anderem Lesetexte, Leseverständnis, Hörvorlagen, Wortschatz-/Schreibaufgaben, Prozessbeschreibungen, Filmbeobachtung und getrennte Lösungen. Nicht jedes Aufgabenformat hat ein eigenes Beispiel; neue Formate bleiben möglich.
 
@@ -16,7 +16,7 @@ Die geplante Region Deutschland für eine spätere Verzeichnisveröffentlichung 
 
 ## Start in wenigen Schritten
 
-1. Unter [Releases](https://github.com/JUJIES/arbeitsblaetter-support/releases/tag/v0.1.64) **JUJIES-Arbeitsblaetter-0.1.64-Pilot.zip** herunterladen, nicht „Source code (zip)“. Die Plugin-ZIP nicht entpacken.
+1. Unter [Releases](https://github.com/JUJIES/arbeitsblaetter-support/releases/tag/v0.1.64+privacy.1) **JUJIES-Arbeitsblaetter-0.1.64-privacy.1-Pilot.zip** herunterladen, nicht „Source code (zip)“. Die Plugin-ZIP nicht entpacken.
 2. In ChatGPT **Plugins → Hinzufügen → Plugin-Archiv hochladen** wählen, soweit diese Importfunktion im eigenen Konto vorhanden ist. ZIP auswählen und die angezeigten Installationsschritte abschließen.
 3. Einen neuen **Work**-Chat öffnen, **@JUJIES Arbeitsblätter** auswählen und Fach, Klasse, Thema und Lernziel nennen.
 4. Kurze Rückfragen beantworten, den Entwurf prüfen und konkrete Änderungen anfordern.
@@ -43,3 +43,14 @@ Keine Annahme oder Veröffentlichung im OpenAI-Plugin-Verzeichnis ist damit bele
 Dieses Projekt stammt nicht von OpenAI und wird nicht als von OpenAI geprüft oder empfohlen dargestellt.
 
 Die bebilderte Kurzanleitung hat Textstand 0.1.64. Ihre Installationsbilder zeigen eine ältere Pilotoberfläche und sind entsprechend beschriftet; Menübezeichnungen und Importverfügbarkeit können je nach Konto abweichen.
+
+## Datenschutzpflege vom 8. November 2026
+
+Der Download 0.1.64+privacy.1 ist eine gekennzeichnete Datenschutzfassung des
+bisherigen GitHub-Piloten 0.1.64. Persönliche Herkunftsvermerke wurden neutralisiert.
+Funktionen, Skripte, Bilder, Vorlagen und Pluginidentität entsprechen 0.1.64.
+Die Kurzanleitung zeigt dessen Versions- und Dateinamen; für den Download gelten
+die aktuellen Angaben auf dieser Seite. Ältere personenbezogene Pilot-ZIPs und
+die alte PDF 0.1.40 wurden zurückgezogen und durch diesen Download ersetzt.
+Der separate OpenAI-Einreichungsweg und der laufende Rechendienst werden dadurch
+nicht aktualisiert.
