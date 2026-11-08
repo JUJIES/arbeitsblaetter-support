@@ -2,7 +2,7 @@
 
 ## 1. Die richtige ZIP herunterladen
 
-Öffne die [Pilotversion 0.1.64](https://github.com/JUJIES/arbeitsblaetter-support/releases/tag/v0.1.64+privacy.1) und lade unter „Assets“ **JUJIES-Arbeitsblaetter-0.1.64-privacy.1-Pilot.zip** herunter. Nicht „Source code (zip)“ wählen: Das ist nur dieses Dokumentationsrepository und kein installierbares Pluginpaket.
+Öffne die [Pilotversion 0.1.64](https://github.com/JUJIES/arbeitsblaetter-support/releases/tag/v0.1.64%2Bprivacy.1) und lade unter „Assets“ **JUJIES-Arbeitsblaetter-0.1.64-privacy.1-Pilot.zip** herunter. Nicht „Source code (zip)“ wählen: Das ist nur dieses Dokumentationsrepository und kein installierbares Pluginpaket.
 
 Die Plugin-ZIP **nicht entpacken**. Die Prüfsumme steht in `SHA256SUMS.txt` beim Release.
 
